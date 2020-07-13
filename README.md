@@ -8,7 +8,7 @@ We were all beginners at the moment but the will to create something interesting
 The app which we have created lets the user enter a desired location and then creates a virtual door through which one can enter into the the location virtually and experience that place with a 360° view and also can see the room left behind himself on the other end of the door which makes this project all the way more charismatic.
 
 ## Video
-[![Watch the video]()](https://youtu.be/zg5oysb4jXY)
+[![Watch the video](https://github.com/MANI14011998/AR-portal-Ios-App/blob/master/WhatsApp%20Image%202020-07-13%20at%201.43.40%20PM.jpeg)](https://youtu.be/zg5oysb4jXY)
 
 ## How We built it
 
